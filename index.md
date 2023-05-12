@@ -37,6 +37,3 @@ and (iii) applying a scene text segmentation to various fields.
 
 ```
 
-```
-The final element.
-```

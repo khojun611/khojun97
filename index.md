@@ -20,7 +20,7 @@ and (iii) applying a scene text segmentation to various fields.
   <sup>2022.09 - Current</sup>
  </h4>
  
- - Integrated M.S student in [Imaging Engineering] 
+ - Integrated M.S student in [Imaging Engineering]("https://gsaim.cau.ac.kr/ )
  - Advisor: [Prof. Hakgu Kim](https://www.irislab.cau.ac.kr/)
  
  [Imaging Engineering]: "https://gsaim.cau.ac.kr/ 
@@ -31,7 +31,7 @@ and (iii) applying a scene text segmentation to various fields.
   <sup>2016.03 - 2022.02</sup>
  </h4>  
    
- - B.S. in [Inustrial Engineering]  
+ - B.S. in [Inustrial Engineering](https://cms.dankook.ac.kr/web/ind)
    
  [Industrial Engineering]: https://cms.dankook.ac.kr/web/ind
 

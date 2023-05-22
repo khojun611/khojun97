@@ -4,7 +4,7 @@ layout: default
 
 Hello!
 I am a Master student in GSAIM at Chung-Ang University. and studying under the supervision of 
-[Prof. Hakgu Kim](https://www.irislab.cau.ac.kr/)
+[Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/)
 
 My resarch intesests are in the field of Image Segmentation and Optical Character Recognition (OCR)   
 (i) Detection and Segmentation scene text from background in the wild scene,  
@@ -20,10 +20,10 @@ and (iii) applying a scene text segmentation and recognition to various fields.
   <sup>2022.09 - Current</sup>
  </h4>
  
- - Integrated M.S student in [Imaging Engineering]("https://gsaim.cau.ac.kr/)
- - Advisor: [Prof. Hakgu Kim](https://www.irislab.cau.ac.kr/)
+ - Integrated M.S student in [Imaging Engineering](https://gsaim.cau.ac.kr/)
+ - Advisor: [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/)
  
- [Imaging Engineering]: "https://gsaim.cau.ac.kr/ 
+ [Imaging Engineering]: https://gsaim.cau.ac.kr/ 
  
  <h4 class="education">
   <i class="material-icons md-18">school</i>

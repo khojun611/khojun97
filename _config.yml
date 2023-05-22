@@ -1,6 +1,11 @@
 title: Minimal theme
+subtitle: (김호준, @HOJUN)
 logo: /assets/img/블루-웹용.jpg
-description: Minimal is a theme for GitHub Pages.
+description: Master student in GSAIM at Chung-Ang University
+location: Seoul, Korea
+email: khojun611@cau.ac.kr
+homepage: https://khojun611.github.io/khojun97/
+github: https://github.com/khojun611
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal

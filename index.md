@@ -6,16 +6,16 @@ Hello!
 I am a Master student in GSAIM at Chung-Ang University. and studying under the supervision of 
 [Prof. Hak Gu Kim](https://www.irislab.cau.ac.kr/)
 
-My resarch intesests are in the field of Image Segmentation and Optical Character Recognition (OCR)   
-(i) Detection and Segmentation scene text from background in the wild scene,  
-(ii) Recognition scene text in the wild scene,  
-and (iii) applying a scene text segmentation and recognition to various fields.  
+My resarch intesests are in the field of Image Segmentation and Optical Character Recognition (OCR)
+(i) Detection and Segmentation scene text from background in the wild scene,
+(ii) Recognition scene text in the wild scene,
+and (iii) applying a scene text segmentation and recognition to various fields.
 
 
 ### Education
 
 <h4 class="education">
-  <i class="material-icons md-18">account_balace</i>
+  <i class="material-icons md-18">account_balance</i>
   <a href="https://www.cau.ac.kr/index.do">Chung-Ang University (CAU)</a>, Seoul, Korea
   <sup>2022.09 - Current</sup>
  </h4>

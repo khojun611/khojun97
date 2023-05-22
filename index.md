@@ -35,5 +35,3 @@ and (iii) applying a scene text segmentation to various fields.
    
  [Industrial Engineering]: https://cms.dankook.ac.kr/web/ind
 
-```
-

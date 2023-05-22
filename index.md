@@ -28,7 +28,7 @@ and (iii) applying a scene text segmentation to various fields.
  <h4 class="education">
   <i class="material-icons md-18">school</i>
   <a href="https://www.dankook.ac.kr/web/kor">Dankook University</a>, Cheonan, Korea  
-  <sup>2016.03 - 2022.02<\sup>
+  <sup>2016.03 - 2022.02</sup>
  <\h4>  
    
  - B.S. in [Inustrial Engineering]  

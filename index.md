@@ -8,7 +8,7 @@ I am a Master student in GSAIM at Chung-Ang University. and studying under the s
 
 My resarch intesests are in the field of Image Segmentation and Optical Character Recognition (OCR)   
 (i) Detection and Segmentation scene text from background in the wild scene,  
-(ii) Recognition detected or segmented scne text in the wild scene,  
+(ii) Recognition scene text in the wild scene,  
 and (iii) applying a scene text segmentation to various fields.  
 
 

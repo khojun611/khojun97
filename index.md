@@ -15,7 +15,7 @@ and (iii) applying a scene text segmentation to various fields.
 ### Education
 
 <h4 class="education">
-  <i class="material-icons md-18">account_balace</i>
+  # <i class="material-icons md-18">account_balace</i>
   <a href="https://www.cau.ac.kr/index.do">Chung-Ang University (CAU)</a>, Seoul, Korea
   <sup>2022.09 - Current</sup>
  </h4>

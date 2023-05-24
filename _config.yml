@@ -1,13 +1,15 @@
-title: Minimal 
-subtitle: (김호준, @HOJUN)
-face: /assets/img/블루-웹용.jpg
+title: 김호준
+subtitle: (@HOJUN)
+face: /assets/img/hojun.jpg
 description: Master student in GSAIM at Chung-Ang University
 location: Seoul, Korea
 email: khojun611@cau.ac.kr
 homepage: https://khojun611.github.io/khojun97/
 github: https://github.com/khojun611
-show_downloads: true
-google_analytics:
+#show_downloads: true
+#google_analytics:
+
 theme: jekyll-theme-minimal
-plugins: 
+plugins:
   - jekyll-seo-tag
+
